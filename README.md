@@ -1,2 +1,2 @@
-# tethered-old-instagram
-Old Instagram but... it wont crashes
+# tethered-old-apps
+it all wont crashes
